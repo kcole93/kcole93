@@ -1,5 +1,5 @@
 - 👋 Hi, my name's Kevin!
-- 👀 I’m interested in the intersection of technology & human mobility.
+- 👀 I’m interested in the intersection of technology & human mobility. Currently working as Head of Partnerships and Research at NYC-based [Refugee Solidarity Network](https://refugeesolidaritynetwork.org/) (RSN).
 - 🌱 I’m currently learning more about web development with frameworks like Astro, Vue.js and more generally about static site generation with a headless CMS.
 - 📫 You can find more about me at [my personal website](https://www.kevin-cole.com/) and get in touch via [LinkedIn](https://www.linkedin.com/in/kcole93/).
 
