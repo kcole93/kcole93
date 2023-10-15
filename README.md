@@ -1,7 +1,12 @@
-- 👋 Hi, my name's Kevin!
-- 👀 I’m interested in the intersection of technology & human mobility. Currently working as Head of Partnerships and Research at NYC-based [Refugee Solidarity Network](https://refugeesolidaritynetwork.org/) (RSN).
-- 🌱 I’m currently learning more about web development with frameworks like Astro, Vue.js and more generally about static site generation with a headless CMS.
-- 📫 You can find more about me at [my personal website](https://www.kevin-cole.com/) and get in touch via [LinkedIn](https://www.linkedin.com/in/kcole93/).
+- 👋 Hi, I'm Kevin, a data-driven professional specializing in program optimization and web development.
+
+- 🔍 Focused on bridging technology and humanitarian work, I currently serve as the Head of Partnerships and Research at NYC-based [Refugee Solidarity Network](https://refugeesolidaritynetwork.org/).
+
+- 💻 Skilled in data analytics, performance metrics, and modern web technologies like Astro and Vue.js.
+
+- 🚀 Actively seeking opportunities to transition into data engineering and web development roles in the tech sector.
+
+- 🌐 Learn more about me at my [personal website](https://kevin-cole.com/), or [connect with me on LinkedIn](https://www.linkedin.com/in/kcole93/).
 
 <!---
 kcole93/kcole93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
