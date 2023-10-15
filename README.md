@@ -2,7 +2,7 @@
 
 - 🔍 Focused on bridging technology and humanitarian work, I currently serve as the Head of Partnerships and Research at NYC-based [Refugee Solidarity Network](https://refugeesolidaritynetwork.org/).
 
-- 💻 Skilled in data analytics, performance metrics, and modern web technologies like Astro and Vue.js.
+- 💻 Skilled in data analytics, performance metrics, and modern web technologies like Astro and Vue.js. Member of the Astro [`@support-squad`](https://astro.build/chat).
 
 - 🚀 Actively seeking opportunities to transition into data engineering and web development roles in the tech sector.
 
