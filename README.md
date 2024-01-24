@@ -6,7 +6,7 @@
 
 - 🚀 Seeking opportunities in data analysis, technical project management or web development roles in public and private ventures aimed at social good.
 
-- 🌐 Learn more about me at my [personal website](https://kevin-cole.com/), or [connect with me on LinkedIn](https://www.linkedin.com/in/kcole93/).
+- 🌐 Learn more about me at my [personal website](https://kevin-cole.com/), or [connect with me on LinkedIn](https://www.linkedin.com/in/k-t-cole/).
 
 <!---
 kcole93/kcole93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
