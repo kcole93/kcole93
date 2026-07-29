@@ -1,8 +1,6 @@
-- 👋 Hi, I'm Kevin, a data-driven professional specializing in Data Engineering/Analytics & Technical Project Management.
+- 👋 Hi, I'm Kevin. I'm currently a JD candidate at Cornell Law School.
 
-- 🔍 Focused on bridging technology and social impact-focused work, I currently work in the immigration/global mobility space.
-
-- 💻 Skilled in data analytics, performance metrics, and modern web technologies like Astro and Vue.js. Member of the Astro [`@support-squad`](https://astro.build/chat).
+- 🔍 Focused on bridging technology and social impact-focused work, I'm the founder of [Threshold Immigration Intelligence](https://threshold-immigration.com): a legal tech company in the immigration/global mobility space.
 
 - 🌐 Learn more about me at my [personal website](https://kevin-cole.com/), or [connect with me on LinkedIn](https://www.linkedin.com/in/k-t-cole/).
 
