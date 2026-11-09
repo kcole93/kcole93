@@ -1,8 +1,12 @@
-- 👋 Hi, I'm Kevin. I'm currently a JD candidate at Cornell Law School.
+- 👋 Hi, I'm Kevin, a J.D. candidate at Cornell Law School (Class of 2029).
 
-- 🔍 Focused on bridging technology and social impact-focused work, I'm the founder of [Threshold Immigration Intelligence](https://threshold-immigration.com): a legal tech company in the immigration/global mobility space. I also run a small digital consultancy: [Ainslie Digital](https://ainslie.digital).
+- 🔎 Before law school I spent five years in refugee legal protection, then built research tools for immigration practitioners. I founded [Threshold Immigration Intelligence](https://threshold-immigration.com), an API-first H-1B research platform, and ran [Ainslie Digital](https://ainslie.digital), a small consultancy building workflow automation for law firms and nonprofits.
 
-- 🌐 Learn more about me at my [personal website](https://kevin-cole.com/), or [connect with me on LinkedIn](https://www.linkedin.com/in/k-t-cole/).
+- ⚖️ I want to practice where software, data, and regulation meet: technology transactions, emerging companies, and privacy.
+
+- 🛠️ The repos here are the tools I built along the way, mostly Python and TypeScript, mostly about immigration data.
+
+- 🌐 More at [kevin-cole.com](https://kevin-cole.com/) and [portfolio.kevin-cole.com](https://portfolio.kevin-cole.com/), or [connect on LinkedIn](https://www.linkedin.com/in/k-t-cole/).
 
 <!---
 kcole93/kcole93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
